@@ -1,0 +1,23 @@
+FUTEBOL
+
+Quem ganhou a última Copa do Mundo (2022) ?  | FUTEBOL | BRASIL | FRANÇA | ARGENTINA | ALEMANHA | ARGENTINA
+Qual time brasileiro é azul ? | FUTEBOL | PALMEIRAS | CORINTHIANS | FLAMENGO | CRUZEIRO | CRUZEIRO
+Quem é o maior jogador de todos os tempos ? | FUTEBOL | PELÉ | BECKHAM | HAALAND | MARADONNA | PELÉ
+Que time tem mais Champions League ? | FUTEBOL | LIVERPOOL | REAL MADRID | BARCELONA | MILAN | REAL MADRID
+Que time paulista não tem mundial ? | FUTEBOL | PALMEIRAS | CORINTHIANS | SANTOS | SÃO PAULO | PALMEIRAS
+
+CINEMA
+
+Que filme é o recordista em Oscars ?  | CINEMA | TITANIC | AVATAR | EFEITO BORBOLETA | VINGADORES: ULTIMATO | TITANIC
+Qual filme não é do genero terror ? | CINEMA | PANICO | HEREDITÃRIO | ILUMINADO | GREENBOOK | GREENBOOK
+Que filme tem palhaço como vilão ? | CINEMA | GREMILINS | O SILENCIO DOS INOCENTES | IT: A COISA | A FERA | IT: A COISA
+Quem é o maior vilão da franquia Vingadores ? | CINEMA | HANIBAL | VENOM | RITA REPULSA | THANOS | THANOS
+Qual é o primeiro nome do personagem Potter ? | CINEMA | HARRY | RILDO | HENRY | HODOR | HARRY
+
+MATEMATICA
+
+Quanto é 2 x 3! ?  | MATEMATICA | 6 | 4 | 30 | 12 | 12
+Quanto vale Pi ? | MATEMATICA | 3,1415 | 3,3333 | 3,2015 | 3 | 3,1415
+Quanto é 3 * 15 / 5 ? | MATEMATICA | 5 | 3 | 9 | 45 | 9
+Quanto é 2 + 8 * 10 - 15? | MATEMATICA | 42 | 85 | 50 | 67 | 67
+Quanto é 50 * 3 + 70 * 0 ? | MATEMATICA | 0 | 153 | 150 | 220 | 150

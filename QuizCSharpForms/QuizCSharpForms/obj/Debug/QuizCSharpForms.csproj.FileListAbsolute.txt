@@ -1,0 +1,12 @@
+E:\Projetos\CSharp\QuizCSharpForms\QuizCSharpForms\QuizCSharpForms\bin\Debug\QuizCSharpForms.exe.config
+E:\Projetos\CSharp\QuizCSharpForms\QuizCSharpForms\QuizCSharpForms\bin\Debug\QuizCSharpForms.exe
+E:\Projetos\CSharp\QuizCSharpForms\QuizCSharpForms\QuizCSharpForms\bin\Debug\QuizCSharpForms.pdb
+E:\Projetos\CSharp\QuizCSharpForms\QuizCSharpForms\QuizCSharpForms\obj\Debug\QuizCSharpForms.csproj.AssemblyReference.cache
+E:\Projetos\CSharp\QuizCSharpForms\QuizCSharpForms\QuizCSharpForms\obj\Debug\QuizCSharpForms.csproj.SuggestedBindingRedirects.cache
+E:\Projetos\CSharp\QuizCSharpForms\QuizCSharpForms\QuizCSharpForms\obj\Debug\QuizCSharpForms.Properties.Resources.resources
+E:\Projetos\CSharp\QuizCSharpForms\QuizCSharpForms\QuizCSharpForms\obj\Debug\QuizCSharpForms.csproj.GenerateResource.cache
+E:\Projetos\CSharp\QuizCSharpForms\QuizCSharpForms\QuizCSharpForms\obj\Debug\QuizCSharpForms.csproj.CoreCompileInputs.cache
+E:\Projetos\CSharp\QuizCSharpForms\QuizCSharpForms\QuizCSharpForms\obj\Debug\QuizCSharpForms.exe
+E:\Projetos\CSharp\QuizCSharpForms\QuizCSharpForms\QuizCSharpForms\obj\Debug\QuizCSharpForms.pdb
+E:\Projetos\CSharp\QuizCSharpForms\QuizCSharpForms\QuizCSharpForms\obj\Debug\QuizCSharpForms.frmModoJogo.resources
+E:\Projetos\CSharp\QuizCSharpForms\QuizCSharpForms\QuizCSharpForms\obj\Debug\QuizCSharpForms.frmMenuPrincipal.resources
